@@ -1055,6 +1055,7 @@ textarea.massage_box::placeholder {
     background-color: #021239;
     height: auto;
     padding: 70px 0px 50px 0px;
+    
 }
 
 .map_text {
@@ -1088,6 +1089,7 @@ textarea.massage_box::placeholder {
     float: left;
     background-color: #e8531f;
     height: auto;
+    margin-bottom: -120px;
 }
 
 .copyright_text {

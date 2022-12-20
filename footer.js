@@ -18,7 +18,7 @@ function footerTemplate(footer) {
                     </div>
                     <div class="col-lg-4 col-sm-12">
                         <div class="map_text">
-                            <a href="#"><img src="./images/mail-icon.png" class="image_main"><span class="padding_left_10">demo@gmail.com</span></a>
+                            <a href="#"><img src="./images/mail-icon.png" class="image_main"><span class="padding_left_10">rajibmondol060@gmail.com</span></a>
                         </div>
                     </div>
                 </div>

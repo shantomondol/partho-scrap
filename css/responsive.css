@@ -7,17 +7,28 @@
     .header-search {
         padding: 15px 0px;
     }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding-right: 30px;
+        padding-left: 30px;
+        color: #fffcf4;
+        font-size: 18px;
+        text-transform: uppercase;
+    }
+    .navbar-nav {
+        margin-left: 0%;
+    }
 }
 
 
 /*------------------------------------------------------------------- 767px x 599px ---------------------------------------------------------------------*/
 
 @media only screen and (min-width: 599px) and (max-width: 767px) {
-    .logo {
-        text-align: center;
-    }
+    
     .cart-content-right {
         padding-bottom: 5px;
+    }
+    .bg-light {
+        height: 100%;
     }
     .mg {
         margin: 0px 0px;
@@ -88,8 +99,12 @@
     .cart-content-right {
         padding-bottom: 5px;
     }
+    
     .megamenu>.row [class*="col-"] {
         padding: 0px;
+    }
+    .navbar-nav {
+        margin-left: 0%;
     }
     .menu-area-main .megamenu .men-cat {
         padding: 0px 15px;
@@ -131,6 +146,10 @@
     .banner_section {
         background-size: 100%;
     }
+    .navbar-nav {
+        margin-left: 0%;
+    }
+   
     #main_slider a.carousel-control-next {
         right: 116px;
         top: 67%;
@@ -139,10 +158,7 @@
         left: 740px;
         top: 67%;
     }
-    .logo {
-        width: 15%;
-        margin-right: 70px;
-    }
+  
     .navbar-expand-lg .navbar-nav .nav-link {
         padding-right: 23px;
         padding-left: 23px;
@@ -204,10 +220,11 @@
     .navbar-toggler {
         background-color: #fff;
     }
-    .logo {
-        width: 15%;
-        margin-right: 0;
-        top: 40px;
+    .navbar-nav {
+        margin-left: 0%;
+    }
+    .bg-light {
+        height: 100%;
     }
     .navbar {
         padding: .5rem 15px;
@@ -382,11 +399,10 @@
     .navbar-toggler {
         background-color: #fff;
     }
-    .logo {
-        width: 15%;
-        margin-right: 0;
-        top: 40px;
+    .navbar-nav {
+        margin-left: 0%;
     }
+    
     .navbar {
         padding: .5rem 15px;
     }
@@ -565,14 +581,27 @@
     }
 }
 
+
+
+
+
+
+
 @media (max-width: 575px) {
+
+    .bg-light {
+        background-color: #021239 !important;
+        height: 100%;
+    }
     .navbar-toggler {
         background-color: #fff;
+        font-size: 15px;
+    }
+    .navbar-nav {
+        margin-left: 0%;
     }
     .logo {
-        width: 30%;
-        margin-right: 10px;
-        top: 5px;
+        width: 16%;
     }
     .navbar {
         padding: .5rem 15px;

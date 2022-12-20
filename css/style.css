@@ -232,6 +232,7 @@ button {
 
 .bg-light {
     background-color: #021239 !important;
+    height: 11.9vh;
 }
 
 .navbar {
@@ -239,19 +240,25 @@ button {
 }
 
 .logo {
-    width: 10%;
-    float: left;
-    margin-right: 155px;
-    position: relative;
-    top: 55px;
+    width: 8%;
+}
+
+.logo-title {
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    margin-left: -5px;
 }
 
 .navbar-expand-lg .navbar-nav .nav-link {
-    padding-right: 30px;
-    padding-left: 30px;
+    padding-right: 19px;
+    padding-left: 0px;
     color: #fffcf4;
     font-size: 18px;
     text-transform: uppercase;
+}
+
+.navbar-nav {
+    margin-left: 53%;
 }
 
 .navbar-light .navbar-nav .nav-link:focus,
@@ -399,28 +406,7 @@ button {
     background-color: #e8531f;
 }
 
-.about_bt {
-    width: 180px;
-    float: left;
-    margin-top: 30px;
-}
 
-.about_bt a {
-    width: 100%;
-    float: left;
-    font-size: 16px;
-    color: #f9f9f9;
-    background-color: #e8531f;
-    text-transform: uppercase;
-    text-align: center;
-    padding: 10px 0px;
-    border-radius: 5px;
-}
-
-.about_bt a:hover {
-    color: #f9f9f9;
-    background-color: #111111;
-}
 
 .about_img {
     width: 100%;
@@ -431,7 +417,7 @@ button {
     content: '';
     position: absolute;
     background-color: #efefef;
-    width: 700px;
+    width: 600px;
     height: 600px;
     margin: 0 auto;
     left: -30%;
@@ -444,7 +430,6 @@ button {
 .services_section {
     width: 100%;
     float: left;
-    padding-bottom: 90px;
 }
 
 .services_section:after {
@@ -454,7 +439,7 @@ button {
     width: 630px;
     height: 600px;
     border-radius: 520px;
-    margin: 0 auto;
+    margin: -90px auto;
     left: 0;
     right: 0;
     text-align: center;
@@ -469,16 +454,14 @@ button {
     text-align: center;
     text-transform: uppercase;
     font-weight: 700;
-    padding-top: 70px;
 }
 
 .services_text {
     width: 100%;
-    float: left;
     font-size: 16px;
     color: #090a0b;
     text-align: center;
-    margin: 0px;
+    margin: 0;
 }
 
 .services_section_2 {

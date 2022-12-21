@@ -534,18 +534,12 @@ button {
     
 }
 
-.card {
-    border-radius: 20px;
-    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
-    border: 0;
-}
-
 .icon-card {
     background-color: #F8FFFB;
     text-align: center;
     border-radius: 20px;
     padding: 20px;
-    color: #413960;
+    color: #000000;
 }
 
 .icon-card-highlight {
@@ -556,12 +550,10 @@ button {
 .icon {
     width: 200px;
     height: 200px;
-    margin-bottom: 30px;
 }
 
 .card-img-top {
     border: 1px solid #ccc;
-    margin-bottom: 10px;
 }
 
 .card-img-top:hover {

@@ -183,9 +183,7 @@
     .icon_1 {
         font-size: 12px;
     }
-    .long_text {
-        font-size: 12px;
-    }
+  
     .box_middle {
         margin: 0px 14.7px;
     }
@@ -199,18 +197,7 @@
     .number_text {
         width: 70%;
     }
-    .reader_text {
-        font-size: 20px;
-    }
-    #my_slider a.carousel-control-prev {
-        left: 0px;
-    }
-    #my_slider a.carousel-control-next {
-        right: 0px;
-    }
-    .looking_text {
-        font-size: 24px;
-    }
+
     .map_text {
         font-size: 16px;
     }
@@ -283,96 +270,13 @@
     .box_right {
         width: 100%;
     }
-    .image_2 {
-        width: 100%;
-        top: 0;
-        position: initial;
-        text-align: right;
-    }
-    .project_section {
-        padding-top: 0px;
-    }
-    .project_taital {
-        font-size: 30px;
-    }
-    .project_menu li {
-        padding: 0px 2px;
-        margin-top: 30px;
-        font-size: 18px;
-    }
-    .image_3 {
-        margin-top: 20px;
-    }
-    .philosophy_taital {
-        font-size: 30px;
-    }
-    .philosophy_box_main {
-        width: 95%;
-        margin-left: 0;
-        padding: 0px 20px 20px 20px;
-    }
-    .philosophy_left {
-        width: 20%;
-    }
-    .quick_text {
-        font-size: 20px;
-        padding-top: 10px;
-    }
-    .number_text {
-        width: 85%;
-        font-size: 20px;
-        padding: 15px 0px;
-    }
-    .image_7 {
-        padding-top: 40px;
-    }
-    .reader_text {
-        font-size: 16px;
-        width: 87%;
-        padding: 2px;
-    }
-    #my_slider a.carousel-control-prev {
-        left: 7px;
-        top: 40%;
-    }
-    #my_slider a.carousel-control-next {
-        right: 7px;
-        top: 40%;
-    }
-    .image_6 {
-        margin-top: 20px;
-    }
     .contact_taital {
         font-size: 30px;
     }
     .mail_section {
         width: 100%;
     }
-    .looking_text {
-        font-size: 16px;
-        padding-top: 17px;
-    }
-    .quote_bt {
-        margin: 0 auto;
-        float: initial;
-    }
-    .client_taital {
-        font-size: 26px;
-    }
-    .client_text {
-        width: 100%;
-        font-size: 15px;
-    }
-    .client_left {
-        width: 100%;
-    }
-    .client_right {
-        width: 100%;
-    }
-    
-    .carousel-indicators {
-        bottom: -40px;
-    }
+
     .map_text {
         font-size: 18px;
         margin: 10px 0px;
@@ -456,104 +360,11 @@
     .box_right {
         width: 100%;
     }
-    .image_2 {
-        width: 100%;
-        top: 0;
-        position: initial;
-        text-align: right;
-    }
-    .project_section {
-        padding-top: 0px;
-    }
-    .project_taital {
-        font-size: 30px;
-    }
-    .project_menu li {
-        padding: 0px 2px;
-        margin-top: 10px;
-        font-size: 14px;
-    }
-    .project_menu li a {
-        padding: 10px 9px;
-    }
-    .project_menu {
-        text-align: left;
-    }
-    .image_3 {
-        margin-top: 20px;
-    }
-    .philosophy_taital {
-        font-size: 30px;
-    }
-    .philosophy_box_main {
-        width: 100%;
-        margin-left: 0;
-        padding: 0px 20px 20px 20px;
-    }
-    .philosophy_left {
-        width: 20%;
-    }
-    .quick_text {
-        font-size: 26px;
-        padding-top: 10px;
-    }
-    .number_text {
-        width: 85%;
-        font-size: 20px;
-        padding: 15px 0px;
-    }
-    .image_7 {
-        padding-top: 40px;
-    }
-    .reader_text {
-        font-size: 12px;
-        width: 87%;
-        padding: 2px;
-    }
-    #my_slider a.carousel-control-prev {
-        left: 7px;
-        top: 40%;
-    }
-    #my_slider a.carousel-control-next {
-        right: 7px;
-        top: 40%;
-    }
-    .image_6 {
-        margin-top: 20px;
-    }
     .contact_taital {
         font-size: 30px;
     }
     .mail_section {
         width: 100%;
-    }
-    .newslatter_main {
-        display: initial;
-    }
-    .looking_text {
-        font-size: 16px;
-        padding-top: 0px;
-    }
-    .quote_bt {
-        margin: 0 auto;
-        float: initial;
-    }
-    .client_taital {
-        font-size: 26px;
-    }
-    .client_text {
-        width: 100%;
-        font-size: 15px;
-    }
-    .client_left {
-        width: 100%;
-    }
-    .client_right {
-        width: 100%;
-    }
-   
-    .carousel-indicators {
-        bottom: -40px;
     }
     .map_text {
         font-size: 18px;
@@ -639,106 +450,13 @@
     .services_taital {
         font-size: 30px;
     }
-    .box_left {
-        width: 100%;
-    }
-    .box_left_one {
-        width: 100%;
-    }
-    .box_right_one {
-        width: 100%;
-    }
-    .box_middle {
-        width: 100%;
-        margin: 0px 0px;
-        margin-top: 30px;
-    }
-    .box_right {
-        width: 100%;
-    }
-    .image_2 {
-        width: 100%;
-        top: 0;
-        position: initial;
-        text-align: right;
-    }
-    .project_section {
-        padding-top: 0px;
-    }
-    .project_taital {
-        font-size: 30px;
-    }
-    .project_menu li {
-        padding: 0px 15px;
-        margin-top: 10px;
-        float: none;
-        display: flex;
-    }
-    .project_menu {
-        text-align: left;
-    }
-    .image_3 {
-        margin-top: 20px;
-    }
-    .philosophy_taital {
-        font-size: 30px;
-    }
-    .philosophy_box_main {
-        width: 100%;
-        margin-left: 0;
-        padding: 0px 20px 20px 20px;
-    }
-    .quick_text {
-        font-size: 18px;
-        padding-top: 10px;
-    }
-    .number_text {
-        width: 85%;
-        font-size: 20px;
-        padding: 10px 0px;
-    }
-    .image_7 {
-        padding-top: 40px;
-    }
-    .reader_text {
-        font-size: 20px;
-    }
-    .image_6 {
-        margin-top: 20px;
-    }
     .contact_taital {
         font-size: 30px;
     }
     .mail_section {
         width: 100%;
     }
-    .newslatter_main {
-        display: initial;
-    }
-    .looking_text {
-        font-size: 16px;
-        padding-top: 0px;
-    }
-    .quote_bt {
-        margin: 0 auto;
-        float: initial;
-    }
-    .client_taital {
-        font-size: 26px;
-    }
-    .client_text {
-        width: 100%;
-        font-size: 15px;
-    }
-    .client_left {
-        width: 100%;
-    }
-    .client_right {
-        width: 100%;
-    }
-    .carousel-indicators {
-        bottom: -40px;
-    }
+
     .map_text {
         font-size: 18px;
         margin: 10px 0px;

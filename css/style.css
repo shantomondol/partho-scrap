@@ -269,7 +269,7 @@ button {
 .banner_section {
     width: 100%;
     float: left;
-    background-image: url(../images/banner-bg.png);
+    background-image: linear-gradient(rgba(84, 70, 209, 0.4), rgba(84, 70, 209, 0.4)), url(../images/banner-bg.png);
     background-size: 100%;
     background-repeat: no-repeat;
     padding-bottom: 100px;
@@ -279,7 +279,7 @@ button {
     width: 100%;
     float: left;
     font-size: 66px;
-    color: #000000;
+    color: #ffffff;
     font-weight: 600;
     padding-top: 100px;
 }

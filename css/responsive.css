@@ -369,11 +369,7 @@
     .client_right {
         width: 100%;
     }
-    .lorem_text {
-        width: 100%;
-        font-size: 16px;
-        padding: 20px;
-    }
+    
     .carousel-indicators {
         bottom: -40px;
     }
@@ -555,11 +551,7 @@
     .client_right {
         width: 100%;
     }
-    .lorem_text {
-        width: 100%;
-        font-size: 16px;
-        padding: 20px;
-    }
+   
     .carousel-indicators {
         bottom: -40px;
     }
@@ -743,11 +735,6 @@
     }
     .client_right {
         width: 100%;
-    }
-    .lorem_text {
-        width: 100%;
-        font-size: 16px;
-        padding: 20px;
     }
     .carousel-indicators {
         bottom: -40px;

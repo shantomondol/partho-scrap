@@ -8,7 +8,7 @@ function footerTemplate(footer) {
     <div class="row">
                     <div class="col-lg-4 col-sm-12">
                         <div class="map_text">
-                            <img src="./images/map-icon.png" class="image_main"><span class="padding_left_10"> Ajman,Industrial Area-2 <br>Post Box: 9400, Office no: 404</span>
+                            <a href="#footer"><img src="./images/map-icon.png" class="image_main"><span class="padding_left_10"> Ajman,Industrial Area-2 <br>Post Box: 9400, Office no: 404</span></a>
                         </div>
                     </div>
                     <div class="col-lg-4 col-sm-12">

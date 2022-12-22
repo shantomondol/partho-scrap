@@ -231,7 +231,7 @@ button {
 }
 
 .bg-light {
-    background-color: #021239 !important;
+    background-color: #0063a6 !important;
     height: 11.9vh;
 }
 
@@ -860,7 +860,7 @@ textarea.massage_box::placeholder {
     width: 38%;
     font-size: 20px;
     color: #ffffff;
-    background-color: #021239;
+    background-color: #0063a6;
     padding: 8px 10px;
     font-weight: bold;
     border: none;
@@ -979,50 +979,10 @@ textarea.massage_box::placeholder {
     padding-top: 15px;
 }
 
-.henrry_text {
-    width: 100%;
-    float: left;
-    font-size: 20px;
-    color: #e07c06;
-    text-align: center;
-    font-weight: 700;
-}
-
-.lorem_text {
-    width: 95%;
-    float: left;
-    font-size: 16px;
-    color: #1c1c1b;
-    margin: 0px;
-    background-color: #fffcf4;
-    padding: 40px;
-    box-shadow: 0px 6px 70px 1px #efefef;
-}
-
-.carousel-indicators .active {
-    background-color: transparent !important;
-    border: 3px solid #e07c06;
-    padding: 10px;
-    top: -6px;
-}
-
-.carousel-indicators li {
-    position: relative;
-    -ms-flex: 0 1 auto;
-    flex: 0 1 auto;
-    width: 15px;
-    height: 15px;
-    margin-right: 3px;
-    margin-left: 3px;
-    text-indent: -999px;
-    background-color: #e07c06;
-    border-radius: 100px;
-}
-
 .footer_section {
     width: 100%;
     float: left;
-    background-color: #021239;
+    background-color: #0063a6;
     height: auto;
     padding: 70px 0px 50px 0px;
     

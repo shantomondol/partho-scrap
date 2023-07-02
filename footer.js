@@ -18,7 +18,7 @@ function footerTemplate(footer) {
                     </div>
                     <div class="col-lg-4 col-sm-12">
                         <div class="map_text">
-                            <a href="mailto:parthoscrap@gmail.com"><img src="./images/mail-icon.png" class="image_main"><span class="padding_left_10">parthoscrap@gmail.com</span></a>
+                            <a href="mailto:info@parthoscrap.com"><img src="./images/mail-icon.png" class="image_main"><span class="padding_left_10">info@parthoscrap.com</span></a>
                         </div>
                     </div>
                 </div>
